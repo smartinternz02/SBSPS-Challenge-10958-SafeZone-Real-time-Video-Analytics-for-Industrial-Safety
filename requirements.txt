@@ -1,0 +1,7 @@
+openvino
+opencv-python
+numpy
+scipy
+munkres
+pyaudio
+wave
